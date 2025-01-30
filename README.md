@@ -106,4 +106,4 @@ The centralized model offers the highest accuracy but at the cost of data privac
 
 ## Future Work
 
-Future research may consider hybrid approaches or further tuning of each model type. Additional considerations include computational and communication overhead, the need for specialized infrastructure, and adaptability to evolving data and conditions.
+Future research may explore hybrid approaches or further refinement of each model type. Additional considerations include computational and communication overhead, the need for specialized infrastructure, and adaptability to evolving data and conditions.
